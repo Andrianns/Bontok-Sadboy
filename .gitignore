@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env*
+*.tsbuildinfo
+
+work/
+backend/.state/
+backend/*.exe
